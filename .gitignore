@@ -1,0 +1,35 @@
+# Compilados y binarios
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+# Archivos de usuario y configuración local
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de VS Code
+.vscode/
+
+# Archivos de Visual Studio
+.vs/
+
+# Paquetes NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Logs y temporales
+*.log
+*.tmp
+*.bak
+
+# Configuración específica del sistema
+*.db
+*.DS_Store
+Thumbs.db
+
+# Publicaciones
+publish/
